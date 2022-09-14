@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+- :tv: I'm currently watching: The Rings of Power.
 - :computer: I’m currently working on a pokemon game to learn unity.
-- :books: I’m currently learning c#/unity
+- :books: I’m currently learning c++.
 - :space_invader: Games I play on the daily-ish: League, Valorant, Genshin.
 - :video_game: I'm currently playing Xenoblade Chronicles 3.
 - :mailbox: Reach me at: stuwu.f@gmail.com
