@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2 style="align: center;">About Me</h2>
+
 - :tv: I'm currently watching: The Rings of Power.
 - :computer: I’m currently working on a pokemon game to learn unity.
 - :books: I’m currently learning c++.
